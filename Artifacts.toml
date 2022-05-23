@@ -1,0 +1,143 @@
+[[SuperLU_DIST]]
+arch = "aarch64"
+git-tree-sha1 = "74d3461b168edc41de8be09f9b340fe604af24bf"
+os = "macos"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "fe83841ee1c20f1f2c36169888b0c6b80a7f4485ef860ade55b121a9db326759"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.aarch64-apple-darwin.tar.gz"
+[[SuperLU_DIST]]
+arch = "aarch64"
+git-tree-sha1 = "be984cded38deaa037a51b11e179455e586654c7"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "3c2207bc00ae7322de3ee8b5006fe179d407cc9b93df7dcf9ecbaaee2e0ee27d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.aarch64-linux-gnu.tar.gz"
+[[SuperLU_DIST]]
+arch = "aarch64"
+git-tree-sha1 = "c7cd258142b91d27301f316b9cfb3127b3723c15"
+libc = "musl"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "52e5e25aff50fe487a44130f254de865500cc941cebfd0c351e9ca0c1b3257a1"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.aarch64-linux-musl.tar.gz"
+[[SuperLU_DIST]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "80186c9d7634779c2cc8ad4c26496f2ae030d837"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "d68e8acf9d05d180b1b453ff08ae49090514c1925645e202d7d7c413f233cf45"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[SuperLU_DIST]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2195201a0a9ccc1c0f36a1efd054e07d8425496b"
+libc = "musl"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "9473574df67f8cfdf7dc813224f3a4df3f9c52704fbfda23795ade0ef99d4e3f"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.armv6l-linux-musleabihf.tar.gz"
+[[SuperLU_DIST]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "91d57843ee3dafa21e704590d9f2c4433301b384"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "93d95b2a81b0782dcd4fa724a2ee5735a7ca13115dddebeafcf05dca0ed2e7ce"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[SuperLU_DIST]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9ef0fef304eb1e1b69ece7044055d930e5c4afc"
+libc = "musl"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "628de64d5267c4c910341b39ee77de82921e6dd08b9dc67a1962ddd28f79dcbf"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.armv7l-linux-musleabihf.tar.gz"
+[[SuperLU_DIST]]
+arch = "i686"
+git-tree-sha1 = "9505e06eea94d09bfa3e11a4d2dbd6b10795f115"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "5e29c501c2c608eff3d54d0ce372cbe2177c36584c35cc2407594d550d5d814d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.i686-linux-gnu.tar.gz"
+[[SuperLU_DIST]]
+arch = "i686"
+git-tree-sha1 = "f11acd0c82c7edf6733943c2ba1243ea398841fc"
+libc = "musl"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "5d48998db9448ef61846fa768fb49e39796d601e2158a6e47ce6bb2d95c5e325"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.i686-linux-musl.tar.gz"
+[[SuperLU_DIST]]
+arch = "i686"
+git-tree-sha1 = "992a10279af44c19a41de3955a4a69214718b51c"
+os = "windows"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "d05ee141cc9f9a1907a870d458fdf5e49ca5bd18b405b7711ed31184acc544f9"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.i686-w64-mingw32.tar.gz"
+[[SuperLU_DIST]]
+arch = "powerpc64le"
+git-tree-sha1 = "ce69e5cffb48231fcfaf7c2e1825fd7627499a3b"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "5767b5aefc362e254587d597720858da8d340f3b9a2e5eee39aa979398672590"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.powerpc64le-linux-gnu.tar.gz"
+[[SuperLU_DIST]]
+arch = "x86_64"
+git-tree-sha1 = "130c7e2b5f02230459c26ec637d58b92ac784e96"
+os = "macos"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "47a4ef4a124fa344f95b37a3329dab345b945a0ca98a2b1eb8a256616604ebe6"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.x86_64-apple-darwin.tar.gz"
+[[SuperLU_DIST]]
+arch = "x86_64"
+git-tree-sha1 = "32aab09d0d468628d333a230ac1205bf488c0cb2"
+libc = "glibc"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "52d6e1ffcd017dfb432fb2581f9086b1814fce2e94685915ebdc6b7deb8ae8e5"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.x86_64-linux-gnu.tar.gz"
+[[SuperLU_DIST]]
+arch = "x86_64"
+git-tree-sha1 = "63dc80d1e6b850dd5cf61968056ed6cb356ddf81"
+libc = "musl"
+os = "linux"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "abf603069846a00e07e4c3718fcf514b1ab217fe44bfc74f7bc51755e79cf933"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.x86_64-linux-musl.tar.gz"
+[[SuperLU_DIST]]
+arch = "x86_64"
+git-tree-sha1 = "e7588deb323c1050a047a5ec531f115e1bca5ad4"
+os = "freebsd"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "a8c02fce8596ef8c2c2ccdd0824e38ac3109887cb65a251c0f0a31cfde54f7af"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.x86_64-unknown-freebsd.tar.gz"
+[[SuperLU_DIST]]
+arch = "x86_64"
+git-tree-sha1 = "331bb10cda497ad2fa6511f119b714629962d965"
+os = "windows"
+
+    [[SuperLU_DIST.download]]
+    sha256 = "f36bf9adf67ccff333191730d30128b6b44c639e4da10a99a8da93878d55de91"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v8.0.0+0/SuperLU_DIST.v8.0.0.x86_64-w64-mingw32.tar.gz"
