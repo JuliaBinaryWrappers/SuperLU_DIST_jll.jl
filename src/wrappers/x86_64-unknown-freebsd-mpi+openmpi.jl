@@ -14,13 +14,13 @@ function __init__()
     JLLWrappers.@generate_init_header(OpenBLAS32_jll, PARMETIS_jll, METIS_jll, LLVMOpenMP_jll, OpenMPI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int32,
-        "lib/superlu_dist/Int32/lib/libsuperlu_dist_Int32.so",
+        "lib/libsuperlu_dist_Int32.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int64,
-        "lib/superlu_dist/Int64/lib/libsuperlu_dist_Int64.so",
+        "lib/libsuperlu_dist_Int64.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
