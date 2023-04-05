@@ -6,7 +6,6 @@ using PARMETIS_jll
 using METIS_jll
 using CompilerSupportLibraries_jll
 using MPItrampoline_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("SuperLU_DIST")
 JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "libsuperlu_dist_Int32.so.8")
 JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "libsuperlu_dist_Int64.so.8")

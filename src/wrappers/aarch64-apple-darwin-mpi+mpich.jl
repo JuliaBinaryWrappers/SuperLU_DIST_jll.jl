@@ -6,7 +6,6 @@ using PARMETIS_jll
 using METIS_jll
 using LLVMOpenMP_jll
 using MPICH_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("SuperLU_DIST")
 JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "@rpath/libsuperlu_dist_Int32.8.dylib")
 JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "@rpath/libsuperlu_dist_Int64.8.dylib")
@@ -14,13 +13,13 @@ function __init__()
     JLLWrappers.@generate_init_header(OpenBLAS32_jll, PARMETIS_jll, METIS_jll, LLVMOpenMP_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int32,
-        "lib/libsuperlu_dist_Int32.8.0.0.dylib",
+        "lib/libsuperlu_dist_Int32.8.1.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int64,
-        "lib/libsuperlu_dist_Int64.8.0.0.dylib",
+        "lib/libsuperlu_dist_Int64.8.1.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
