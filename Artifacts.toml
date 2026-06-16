@@ -1,595 +1,595 @@
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "37a000caf49641258653dd1f993a92d0290ce2ab"
+git-tree-sha1 = "0e159a100e54dc534d47c2d9f108caa997bfa7ee"
 mpi = "mpiabi"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "6f3d61413ffbfae4009ef12e63d1ed62e8b59b89e7368788f7e4c49462aa8c76"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+    sha256 = "3078a4141044a667a765552af84f81e2e67fdea09dc6a333fb5b1d46c1f352a6"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "60b37b23c970d10b62c1515157216681946187ab"
+git-tree-sha1 = "6ad66bba071b3da9a1b8f9a9887ab948178142d0"
 mpi = "mpich"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "3ec57b50fbcb0793dc36b192bf4ed79efeddb403870de4e64fcb68d1308ce9be"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "8f60a743d6851c6f0efbe8b3346d8152e1a99c7d32de1afd83dd5d14d9576306"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "50b6e97e419a5ecfed3f0383971b1b0df7f1032e"
+git-tree-sha1 = "cb5250238e4ff8988aeca9670cdceb1eb4438871"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "fa495214aa3714945a57b7aead6ac458ba5a2e1113204751a1d6ac9f61f9c5d1"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "8734c8169dd59c42a9837e48bc8b9b9ad8525932600f42bd19901ddc10724e05"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "bc9f14254ae101ebc5e5276b287954985d071193"
+git-tree-sha1 = "120c18c026ce5f576c5a6899666edd4a0bb9b7cd"
 mpi = "openmpi"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "c4eba45c356430f6a65e3acfb9a89cc6ed2101bcdc90b9ac54f62de63e1018ba"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "1d5ee016bf337a8de7a7bda2443445d5152cd23ebbf161be584b6befa2ba003f"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "e1e1e148bf081dd411cbc0faaa28eaa05d8841d8"
+git-tree-sha1 = "d66da1b80795d06d20ed923625e787d2242a1947"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "0f07766cad9a1fc72baba456366e68bc1ece29318ff9bd448a2af8f9b94da8d8"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "549e48b36c0069affa4a5e8a264eed1dd9650f0149cc3a9f8a071893241900f6"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "85774c47aa1eb1d8a308ef5086727d284d5c5d07"
+git-tree-sha1 = "1f29bfa2939bfd7ca633dfb393a09e760abd05c2"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "89cfdd3138bef5d28d940cb0a0c549f51e8cf99573e4b2071e0c2488e5aa149b"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "7386e8fd500f10287aa1bcf36bc8a9f1b832d66da29dbaeb21a87a894e12d495"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "34718e10c1798e923cee872a038b7a2f470a409b"
+git-tree-sha1 = "03ad132d1978e7dbfe41d85aaccc3add0d032257"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "72880ab1b0473979ac558d42622b5a2340da1ee80e7d1dbdbe857adc2aa964bc"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "2e53fe64ff854a4801054142d8f6bbb0542af0165c515fbccecbad370d3963d3"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "c8065f701719174a90ee18fb0059e99d872536cd"
+git-tree-sha1 = "10c05a54e42a7f54880d622b52e039d50aeb77bd"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "c8d20f410373aee94f183d69d652addcae959e3a9f9666ba26bc2de9ecde5aad"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "4edd7ebc0f1b9bece003965861fc6b1f04c4ce8d873cd04790f2058a609ee744"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-gnu-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "4f1d9a2886b17079257ab5fa608edccab30cc204"
+git-tree-sha1 = "743ea9a9d62f7dc3f79327e3d3e8e8f387565165"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "a0ccc80761ebefab8201882d1c39ffd177b92f7ddb178a1cfff55dc04d42dda2"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+    sha256 = "ae672de0a1a508543451c6e034ec08f2a12d85eb7cdb207d47b36f49d92e7450"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "125baeb801d8f4c2eca2e6256d832f01b1d017d7"
+git-tree-sha1 = "0e4990d90fc72a4ba2dbe1b602e601451602434c"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "d0f38af273341e26724ea974624b46d76eaa932da9aa62aa61ea4ed3cc58da61"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "eafb3a55ab17569410085bc77344b7ea4ef4f8952e864d9b0712431d9397cc34"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "7adc1032837ec29af676b494f0b813323e84e10b"
+git-tree-sha1 = "6fa681baa988272c2d8e601491275d00490f9d00"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "83f5dc5fe25cb78cca27937d64cbacce74fa894d61c7e531b2bfa64e25985918"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "ed4c635dad6a916d14b41536d2be7cf79121d9441e42697612a2fc296f505c56"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-linux-musl-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "53e9bc6e9049b71b1a01f29aaf5f123a2d7d502e"
+git-tree-sha1 = "e80c79b84bb4455dcdcbda7c22655b7e324c0028"
 mpi = "mpiabi"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "7e8d85475e014412d5f40ead62de86f1184c6cba869beef87920b31310c204a6"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+    sha256 = "c4085771797f9771b83f2d79a0e58115328c8eb2298908bf8f8b1502c187377d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "357549c16c1992fec47a19bfca9906925a02e07d"
+git-tree-sha1 = "46bb83b156fb9b0f229636ffd0f14ffa01cf4f23"
 mpi = "mpich"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "892896b97813227ac6d79165ea4a672531283b9390db8aceb28375ab750b014d"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "ca6d5a088ef348affc0b21e5551ed921c40aa0b0f90d67e9588bac9824ebe3be"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "994f16e326ce1279d66b2c70a63da0bf9678c664"
+git-tree-sha1 = "12763d7cbf8e903839411fa6de6286fa67f24930"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "197f33643f182617aa2a968f0acd15a456f90532f589be981f657387cd349fcf"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "5f74f65160e58a80ef093d51bdcdf65253227ab617b6f434be71b7839c276b20"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "aarch64"
-git-tree-sha1 = "794918a5b25313bd65551c90c0e05e6d7acb3a2c"
+git-tree-sha1 = "a1bd7f08f5e7e7ee0064fb6a0cb84a42f179e1ac"
 mpi = "openmpi"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "bd8f1238353a3550911affc69ad386251469ec1d86e5faa7460f7bed80fbe0ed"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "31600e86332e3661ad2c2b05472e1e4407c8c84e5801eaa6766373cdde51038f"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f32d5f9f6633c4640bdcd235e5e19c730c5a2bee"
+git-tree-sha1 = "f0e98601ffd5f2d4d8c5108ef57afd9f446b05b8"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "842772aa0503a32178fa3f57e0b1c0724a3febc788ed51feab23d5b89b220f6d"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+    sha256 = "e99254e766e3d09739cae9a77f9ea17d61afebe7824cf571c836e3aab2d101db"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "994ed0eaae19519b94be93951086790bc9df296b"
+git-tree-sha1 = "86842528fd1da783ba0e43a5f9e3c4db856d047a"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "1123e091e878fa8f374256975925db9d2be4a0cacabd4f2fef4631e65329e952"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+    sha256 = "2992f6ae4d28bea42ce3a8938853e096ad55b1d6ab3094d28a1e90e514d6f5ce"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d7f3c4bf496082ef9a70ae9553ac2106849a1863"
+git-tree-sha1 = "387e8598a6c0bc664765baf60d844a57cb6a1151"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "6393ae217ed0ee51b9bb6ed95c63fade2c60baea393aa9219f2f8c748bb1052e"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    sha256 = "349f4b8573b486509c14c5475a5baf54f519a46b9a5bdafeb31bf2b53423eabe"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ae727e0fb4525415a449bfc3af9a80f8c31a1e40"
+git-tree-sha1 = "a562b682c4712fa0846cc96cd3b2b079b8ff0a1f"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "ea47e6d2639fbee76b8ccb0de2aa1dbd6e053b188c681c504c1c172a1396d4a4"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+    sha256 = "e76f62c79c1a3e3b61420c0ca51c9b2adebe057ee273b29d307d51551228e04d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "95851d7a06f8c6203143c3862f0d9b7304b8f49a"
+git-tree-sha1 = "f6b130fa665ca6e719fc58a63a23ee1e31b49576"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "818ebea7abeeb31800b9207372117bf70c42c22d656807f04e1d2b0bd9bff82a"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+    sha256 = "4a2b94e98318c5ce6f95f0f6de0f13cb218944c848a3a4c182200df35a225e30"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "55f55137b133eda8da3555b68bbd622eb24bcfdb"
+git-tree-sha1 = "84bcf039328a557234af7516cebd70dbf0323c3e"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "73c71df6542d451b4a72691823d4db514064486564673327113034b49649f266"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+    sha256 = "9ba6266a31e7de8a98040ebd63b438531e553e99974ecd8e269277220ca3a11f"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5311d8cf6273ee6c7d9b18b8c8cfb47b3872e9fb"
+git-tree-sha1 = "cebea159b0485f9e96ffbf767b093e573ac38027"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "c8fa1f0b4d2683f89aaea63f4ac4e9d54643b58ae0cd56da78b1d32d4be5916c"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+    sha256 = "826d629b7c3e0649917b661a9d223cf3670d34e2cbf23e2a2d59b22db01b52e8"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1f08674fe30d12ad4ff49353880d1fa1a941ba82"
+git-tree-sha1 = "f4564c4248286094926f5b27eb3c0cf5e340fe52"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "d7c016ea5405a73a567cf13e118ac5fcfd4f8fcecded5193bdad5900d61c4635"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+    sha256 = "e9246b0e6c813e45fec5a3bcb5bf6dcc71b1834141ed46bce6989f0a32b5bcc8"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "980024435a92b41ad0df8c94beb15b999db7a94e"
+git-tree-sha1 = "ae3fd776dff2b6070ff0b17688ac37ddb89a1e26"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "5e33eacf3aebf1d3dce3c834f1e9aec9f843f8a675f22ce631cd7ba3751b87ac"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    sha256 = "935e023e26fdbecae6fa77ef9e76fe2075fbbd02376a880ea84ed9635bdd4cf1"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "44598eaab9d03d8c430f7683a335d44c6fb47e89"
+git-tree-sha1 = "529031e5f931d6ff22594d8ff6d1d91d40b85908"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "acb4bb035cf46e4a3cfbd1b10038558bb3cc0a215c5459d40bcce0db900ba597"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+    sha256 = "6126ce8072686b688940c7ab9b6fc9e1fc037b4438b384010cd8da04391a3000"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f86569c927e0836a5e7f218903d4d9b14d2f10d3"
+git-tree-sha1 = "6e07f0bf38cb3a21e805176fbff48e4c7ca29db8"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "61b10786de860b85844bc5e4a66a2e329583598b2934672cf41382cf72a89bd6"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+    sha256 = "5c2be7b025d37650fb31f49cd515a5dd02b9d997dbfe821c8a77cbae4c4a78e2"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c95a52f15b397152575c8736c8ff488ec29d21b7"
+git-tree-sha1 = "6decd02e5ba5c3856ac83cec42919adf7033998d"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "48e2cb21f7c98f097044fc1b31d3de623fb69d06ae2ce2226b59666d83272057"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+    sha256 = "0ee0ef17b3efcee8c9edbed2f6f191d866ec07a2dbc6af15983e53776e03f1ce"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "29a4b846792fd3cbd3a6a1d6d5383803b51ca362"
+git-tree-sha1 = "d8cea2577a6e21f28d7d4f1375a155a82d7a7986"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "4081e258679c919737804f1d0ecb45bb09d0956e31a466a1d5d08ee1a8a318f4"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+    sha256 = "a2e4f1732bb5f3b78bad5a757aeccf8bfad4c04f6e99a8ac8238171f48bfcbfa"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "0ac5ec385b6b64a777b7795d42d1741c0142dbf4"
+git-tree-sha1 = "8c17ac9a5480acc1739802adcab08ed2faa141bb"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "ce7bee8e4a3c554bbbe01a334ddc9dae42328fe713cf3c37db237cb62c78276a"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "fbe3f65026a8e10e366bfc7d7430a88d014814493af770a2b8519085922d29f7"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "a0ba2008ca818abda606d059290cfa1469e361d9"
+git-tree-sha1 = "0ca89a1937419b5c6923d135c8fffa912606f2a2"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "56f065a84d9ba0e5ccfbbaf304030aaa573b7e187895d5d64b34b2fddefd5242"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "765c2005dd3aaf24f06c9a16dcf04b5c8282e5b6fd96e914abd4522622c74a0f"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "93fe90f533ed8376fb25949ca1798502e0baf942"
+git-tree-sha1 = "82d8715670aef767bb11009e863115b18c7fd02f"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "274f01d056bd7e5ae31e9687aebfd33ed262306bb3f8cefd09f0130466b0e388"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "5900e7884a2c4cb38bfeb45b5d2487668f216df9ccc834131f6ce9ee857a626d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "7d04d754c4f9bba7ae89bca5b6002bdbed8d3124"
+git-tree-sha1 = "4c8c024159edda5da486ce281b7f9e4d91c61cd5"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "1ab58d8f3a94a825397148a9f47a1d06e77e6576e73a8bd0dbf11cbcbabd4e99"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "06be29f63041f63c2936b8dc37cc580a39a0f493ea30e4beef79f9822973510a"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-gnu-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "bb08c0d38789c7e6549870a33d22706f0ba9803c"
+git-tree-sha1 = "b62d6b202e85bd4d9cc9325dadd06a26d387ba2f"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "5c97ef1a93912e4c01a9d4be40ebc0acac46b52ca66e08529be94acd03229408"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+mpiabi.tar.gz"
+    sha256 = "030b8578e45309bdd56642a9d52296aeb5fc2a43a2932f767c36720cc504bf76"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "e9d9f6088920586cb6a0ecd217aa7a8ed6abe945"
+git-tree-sha1 = "a3e0aed1365b600d2d29811c3b1f594471b65843"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "3d80cfd816b41579d8c5e72c2f6d2a5a7823f01de4897bfd2164c9f8dec0222a"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "954e9955e91e8b912df97e39fab337fc5b7bf4b33e2298a170f93497d241ec34"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "8f5ec0f3040d617bf664da9dc488e3015b3b3cbd"
+git-tree-sha1 = "edfd754dd464f4db27855fe3deb8ab1b29db56c4"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "eebf4dc5d4b6010a094f6308cfa38cb8d5db1973c5068a9b3789850af5ea34e4"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "6b44f928bf23ab294cc7bbecd4987295edb757cf9c7602f730e891d689ec9d11"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-linux-musl-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "i686"
-git-tree-sha1 = "2af931c2482bf7dd08dafc909ac309218b99b37a"
+git-tree-sha1 = "933e48b71a94f4c02c1d18b12967d873a5bd9a7a"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[SuperLU_DIST.download]]
-    sha256 = "ad1cb598d71af1eb5489aba4f91322d87e3853945a241bd9c3b30fe2533a96fe"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+    sha256 = "2694e205957ba60a07366d87bfc927164443c29204271b793bc13891b5fbf6cf"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "powerpc64le"
-git-tree-sha1 = "c6caa497dbd1a8571876f8fe8000ba504f9ff773"
+git-tree-sha1 = "7c85e6bb1dd0faa0ba8682b38feb54809a2f65cb"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "a0c980e022ba5e34714a30bafd6caa6a4ed16c7f32cf46606a25c5f88fd31644"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "c9d8d2f5d28451beb619f8aefdf7988089f41731659623fdbc48bec67dbe97a0"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "powerpc64le"
-git-tree-sha1 = "214cdbcd583186de2e112e7ee173d14609a55de6"
+git-tree-sha1 = "eaec4b890660826da427b0fdd7068b2364c05261"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "a834440715eaacdc2da17db07947282b79b5f6820cc96aa57358c984a1cf2532"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "06571a96b7465c7cbcbd7feffa3001eb435aecece191d85a9322284697e5feac"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "powerpc64le"
-git-tree-sha1 = "48a35ed6f86bc577b77c9c0969b33f37b8d91f1c"
+git-tree-sha1 = "bcd3cc9677fb744f8ac454ab33f7b993443185a2"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "bf7b7a77cca7ab4724edfc71a78fd069ffce48686f9cfc95a6c08b565130a99e"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "082e5ef5e840007789f4b0d65532fe0ddab6ba29bfd9daef3ca424232ea95762"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "powerpc64le"
-git-tree-sha1 = "39c334fcd573b042b86b9d2c232998df8fa4eb22"
+git-tree-sha1 = "e0866c4739f85be929b8c39a7aec67a93dd56f69"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "2b3fc3943db802bb350023b3dc45794653f846b10e8b00e6a1b781e5cebfc46a"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "46a95f938fd77d5841761d94fed9d74929e553892e63a2657430533b0c203d08"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "riscv64"
-git-tree-sha1 = "cb5c73d2a30c490f82404aadf4c72d7df390a14d"
+git-tree-sha1 = "7a9ea9bf357b65b64894061dfa5cc3afd65942a3"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "960a049695b2e74cd4d48403a6f765ea5f9a485ac5fb7aa1dc6f4b58b8f02134"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "adcc9a5b8adc675c1bf084ef5398a8c65cd7c1174d69675bc5b59ce35990431c"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "riscv64"
-git-tree-sha1 = "3dcd6ef8190d371c690c8aa3bd12901de5982f21"
+git-tree-sha1 = "86a973c26cda14ca2804792b39216acf01476173"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "07f7b616f7a1db664fed84fa2c424673388446ce76e148048de59c25602cb7c0"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "2515a5210eaccb06e289038490f58dc2b56e1861fcdb1ea10e769c7eee668582"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "riscv64"
-git-tree-sha1 = "b2d3b0fb6fa83850d8e22ce7b03e41eb036138d8"
+git-tree-sha1 = "3f7add4e9ab19b33188b631fb8df4a7cf4d81764"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "104403b8f0f69e3a803e76c81788648182f731ce389017653590e54c4b22f185"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "637f9ac4fbd87569293be5b6063899bdef6bdbe9d7792825fdfd3d80bfe41194"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "riscv64"
-git-tree-sha1 = "5fbc1404bc646dcd13f5743c47fe1ba6509eb7e6"
+git-tree-sha1 = "c2f5cd047fba439b035f3265dc0ae5d87bb96b8f"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "3cb2fcd95582277386b7ea11f21d223d787fae0c0967bb5a2499b29f6f590e85"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "aef2233f6a78d2596b0610dffc39d5e5bd21b6c9553d7ec6f854acb0ce501854"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.riscv64-linux-gnu-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "6a54f0f67f7082068cd0670c0aac56c9533c5be7"
+git-tree-sha1 = "676a06f59d10e4550424d5e59b7b001665ee0b78"
 mpi = "mpiabi"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "33fef548149a6e0daec4c2476d31362b5f0e738006954a2296eafc935b05ef79"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+    sha256 = "e91878675b9ca409487686f06600bb14416e906919ed2ebdb340e14f7d199e8e"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "6899afd0d318733fcf286c9aadbcf43620afd62c"
+git-tree-sha1 = "176b1d27dd0acd72cc747c5f0bda6f08ce2610fa"
 mpi = "mpich"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "cb800cf5fb2508ed044d73f566e20d363eb5924d78f58f14ad85bc9830d84e2c"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "246cd455cb4933448d32c54009d990606f38288d0cfb8c3cf01d51c0bc5b8223"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "e734734c121be9c538c8d9551aca9d2c6e42fc0c"
+git-tree-sha1 = "8bd29f9e962782e36d0adc640deb645cf7e2427b"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "ec7ea773ffae1829c9eef07dd0d5d9642b08a55cbdc84500cafd3d42b0fe7446"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "de3df413c5b640c4608b019407f6de787a8f8759dcdcc91143be3e75bbaa4afd"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "60ac3570c0eedabd12f5883997723b1e7065fb15"
+git-tree-sha1 = "d2bec20c95b2ae368ded9396965ce74582c6fb21"
 mpi = "openmpi"
 os = "macos"
 
     [[SuperLU_DIST.download]]
-    sha256 = "b4a1c16baa98cabac70d815e17d3179264febe7d81f8860db67cc1f0bb5f72dd"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "00a9e60f3d94debd5195b1ab008f38a919b3ff39250b8957ab8e3b7c752bb900"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "00f76dfb851ed9ff3af1bd392944196706a05ffe"
+git-tree-sha1 = "b1106c27a9faa9c604634c862736a03ff3baf104"
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "6718c39402d9dd4486769167928a5d79741f02db89dae7cb1e550c4f7b8a4a5e"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+    sha256 = "87cab24e28ab90e4174d2d7f38e304a52b52756236c82a60fd4ecf4b33c9ee8c"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "23d3f16cd685155af353340a75581d7eb37aaa52"
+git-tree-sha1 = "2e78e9833cfff1e8a28142f4510e492fb89fbd47"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "dd8c97ca8edd5575c872ffd7eedd12c34001ba6b4f08696b46ee76a01723eaad"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "c6e25b9d2ab6f2e754652a78ae50ee49935d240e33c81eef271aa78de61c7142"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "ca31877e6f952ffebeee5abf6641ccd4c87de0e6"
+git-tree-sha1 = "161df387a34b86c0be7fa5b4ae4676ff9d2b6f94"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "cf0288d80c9ed5f1e9606e946b64a8210434093dcccc848f9e75f81d4bfcc7f9"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "062ec145bfc5b57a944dc1ee46756580768ec1cb542710bce2e1d72443bf0410"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "53e8c4ff9750b8ece57929fe37f36a603aaf1270"
+git-tree-sha1 = "74ced645560d1299bbbc4ebee9401db1c16a8a74"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "5877eff75f3ac4e3d84f08b3a66b4cec733499c3547d1beaef2980c3ff9503d6"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "7d47a1975fdfb39f0522213cad634c334c09ffc669ab92a3a9c79e377ddb2edb"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-gnu-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "b35c37295961acd6ae58d99d7f5631faf12b381c"
+git-tree-sha1 = "849e383db4605b2c1643484dfce03e76a1f10b9f"
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "8a1158fa93463d4779b8c2114e0e272d8c9810808a0d798cc9111ddfce5c89dd"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+    sha256 = "7b28e4f43e7e43d6a8db7c9d62464da17865a13e6b0ff3ddd34913bde7e6f5c9"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "e6540b098a2a75bad829b0ed34e3d70ba698723f"
+git-tree-sha1 = "1e864c4fb862cadff5feb14965c3c201fa74e990"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "587d7cd2c3f62011cf7fc8af38ad5992774ebba444c9d0f66b89d155b46d0a43"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "f74a0c9c54764b549d799f0a08678394046cd758b0c060cca0ae811ca6b608d4"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "34ff4bfa2c4cd5b12d18af5ca74e3ba3f7f5b140"
+git-tree-sha1 = "2b016b11e2d894f6e099b943016c0e8833f35f02"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[SuperLU_DIST.download]]
-    sha256 = "d53c91333162db3c09870ed6c028ed7212bb7ce33006fa06ab414c9af48122a9"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "fd0db406779faea9e09cb2c583f755e5abb117d7c77cb35d9fab42128dbe4bbb"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-linux-musl-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "8792dab4764c6ecee231b388d4e9c2a17b69f093"
+git-tree-sha1 = "c6cb3d07783a3f450cf04c59d5f85658da6e182e"
 mpi = "mpiabi"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "04852b45f62f2ca2bc16b146a485900288f7e994b6d63cd3ef43d094424e3a2f"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+    sha256 = "8e28444c378833e851cf273c7ce93e084561848825e1da2b3b0536130cf87d7a"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "f6db381e0a2234b76b077087f263d7e874f32ccf"
+git-tree-sha1 = "a3c584b6805c5f3d622c0cdf48cdbcd7b122188a"
 mpi = "mpich"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "3057c9febbf0ab78e3c3f5425ef754af07da82369d0206780512e612f4948825"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "63686e05811a786c68df21b6cb8812cb50c4fde5b7eadd59a4797b8ee199f7cb"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "be47991222f87907959f259a6b3564560ffa41ce"
+git-tree-sha1 = "caa6e075e6310398cde2b1b18b9a7fd861cc5b4b"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "2d175de11da88cf49353ca8afa5b6e9be68a140bae74cfdcf34b0093a07cc5c1"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "3f9c1559c46f3edc521a7ca94101232d75560c14279d2766ea411c7c25a7758d"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "babd0378dba2b5025f594fa8b6d1a4266310e3e0"
+git-tree-sha1 = "cd26673dfb21e3ff5579276ff8be6793f0c85374"
 mpi = "openmpi"
 os = "freebsd"
 
     [[SuperLU_DIST.download]]
-    sha256 = "7345da5ed020fce3fe6bcb2a16732675cbb0045d5f25e9e822052db68398adce"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "ef8b56d10847f939cdafd1316c7287fe00957b185d1129fc87b616cb4f6c7a20"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[SuperLU_DIST]]
 arch = "x86_64"
-git-tree-sha1 = "83a663955cb64675a35c821f1f68f464a80b5402"
+git-tree-sha1 = "a59b926fa73f6f5e8a98f59cf1d0083eace161a3"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[SuperLU_DIST.download]]
-    sha256 = "61bf5eee942826e0ede0c7803f0d1e283647a5d8996b2be2440de51ac55bcdb9"
-    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+0/SuperLU_DIST.v9.2.1.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
+    sha256 = "63cf8e2e5e5396d0dcc9ea3e6618dc08df3cc14354687a717902a380630a66cd"
+    url = "https://github.com/JuliaBinaryWrappers/SuperLU_DIST_jll.jl/releases/download/SuperLU_DIST-v9.2.1+1/SuperLU_DIST.v9.2.1.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
