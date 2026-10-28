@@ -8,24 +8,12 @@ using METIS_jll
 using LLVMOpenMP_jll
 using OpenMPI_jll
 JLLWrappers.@generate_wrapper_header("SuperLU_DIST")
-JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "@rpath/libsuperlu_dist_Int32.9.dylib")
-JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "@rpath/libsuperlu_dist_Int64.9.dylib")
 JLLWrappers.@declare_executable_product(pdtest_32)
 JLLWrappers.@declare_executable_product(pdtest_64)
+JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "@rpath/libsuperlu_dist_Int32.9.dylib")
+JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "@rpath/libsuperlu_dist_Int64.9.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, OpenBLAS32_jll, PARMETIS_jll, METIS_jll, LLVMOpenMP_jll, OpenMPI_jll, MPIPreferences)
-    JLLWrappers.@init_library_product(
-        libsuperlu_dist_Int32,
-        "lib/libsuperlu_dist_Int32.9.2.1.dylib",
-        RTLD_LAZY | RTLD_DEEPBIND,
-    )
-
-    JLLWrappers.@init_library_product(
-        libsuperlu_dist_Int64,
-        "lib/libsuperlu_dist_Int64.9.2.1.dylib",
-        RTLD_LAZY | RTLD_DEEPBIND,
-    )
-
     JLLWrappers.@init_executable_product(
         pdtest_32,
         "bin/pdtest_32",
@@ -34,6 +22,18 @@ function __init__()
     JLLWrappers.@init_executable_product(
         pdtest_64,
         "bin/pdtest_64",
+    )
+
+    JLLWrappers.@init_library_product(
+        libsuperlu_dist_Int32,
+        "lib/libsuperlu_dist_Int32.9.3.0.dylib",
+        RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_library_product(
+        libsuperlu_dist_Int64,
+        "lib/libsuperlu_dist_Int64.9.3.0.dylib",
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@generate_init_footer()

@@ -3,16 +3,27 @@ export libsuperlu_dist_Int32, libsuperlu_dist_Int64, pdtest_32, pdtest_64
 
 using libblastrampoline_jll
 using OpenBLAS32_jll
+using PARMETIS_jll
 using METIS_jll
 using CompilerSupportLibraries_jll
 using MicrosoftMPI_jll
 JLLWrappers.@generate_wrapper_header("SuperLU_DIST")
-JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "libsuperlu_dist_Int32.dll")
-JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "libsuperlu_dist_Int64.dll")
 JLLWrappers.@declare_executable_product(pdtest_32)
 JLLWrappers.@declare_executable_product(pdtest_64)
+JLLWrappers.@declare_library_product(libsuperlu_dist_Int32, "libsuperlu_dist_Int32.dll")
+JLLWrappers.@declare_library_product(libsuperlu_dist_Int64, "libsuperlu_dist_Int64.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(libblastrampoline_jll, OpenBLAS32_jll, METIS_jll, CompilerSupportLibraries_jll, MicrosoftMPI_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(libblastrampoline_jll, OpenBLAS32_jll, PARMETIS_jll, METIS_jll, CompilerSupportLibraries_jll, MicrosoftMPI_jll, MPIPreferences)
+    JLLWrappers.@init_executable_product(
+        pdtest_32,
+        "bin\\pdtest_32.exe",
+    )
+
+    JLLWrappers.@init_executable_product(
+        pdtest_64,
+        "bin\\pdtest_64.exe",
+    )
+
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int32,
         "bin\\libsuperlu_dist_Int32.dll",
@@ -23,16 +34,6 @@ function __init__()
         libsuperlu_dist_Int64,
         "bin\\libsuperlu_dist_Int64.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
-    )
-
-    JLLWrappers.@init_executable_product(
-        pdtest_32,
-        "bin\\pdtest_32.exe",
-    )
-
-    JLLWrappers.@init_executable_product(
-        pdtest_64,
-        "bin\\pdtest_64.exe",
     )
 
     JLLWrappers.@generate_init_footer()
