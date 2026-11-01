@@ -26,13 +26,13 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int32,
-        "lib/libsuperlu_dist_Int32.9.3.0.dylib",
+        "lib/libsuperlu_dist_Int32.9.3.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsuperlu_dist_Int64,
-        "lib/libsuperlu_dist_Int64.9.3.0.dylib",
+        "lib/libsuperlu_dist_Int64.9.3.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
